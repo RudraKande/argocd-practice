@@ -14,7 +14,7 @@ spec:
   template:
     metadata:
       labels:
-        app: nginx-demo
+        app: nginx-app-3
 
     spec:
       containers:
